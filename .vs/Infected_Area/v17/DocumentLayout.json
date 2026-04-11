@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\marin\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uAC8C\uC784\uAC1C\uBC1C\\Infected Area(None team)\\Infected_Area\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1DA2152C-A1DB-EE69-F8A5-E5EA0C898EA7}|Assembly-CSharp.csproj|c:\\users\\marin\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\\uAC8C\uC784\uAC1C\uBC1C\\infected area(none team)\\infected_area\\assets\\scripts\\enemyhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DA2152C-A1DB-EE69-F8A5-E5EA0C898EA7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemyhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DA2152C-A1DB-EE69-F8A5-E5EA0C898EA7}|Assembly-CSharp.csproj|c:\\users\\marin\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\\uAC8C\uC784\uAC1C\uBC1C\\infected area(none team)\\infected_area\\assets\\scripts\\meleeattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DA2152C-A1DB-EE69-F8A5-E5EA0C898EA7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\meleeattack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DA2152C-A1DB-EE69-F8A5-E5EA0C898EA7}|Assembly-CSharp.csproj|c:\\users\\marin\\onedrive\\\uBC14\uD0D5 \uD654\uBA74\\\uAC8C\uC784\uAC1C\uBC1C\\infected area(none team)\\infected_area\\assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DA2152C-A1DB-EE69-F8A5-E5EA0C898EA7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playermovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MeleeAttack.cs",
+              "DocumentMoniker": "C:\\Users\\marin\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uAC8C\uC784\uAC1C\uBC1C\\Infected Area(None team)\\Infected_Area\\Assets\\Scripts\\MeleeAttack.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MeleeAttack.cs",
+              "ToolTip": "C:\\Users\\marin\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uAC8C\uC784\uAC1C\uBC1C\\Infected Area(None team)\\Infected_Area\\Assets\\Scripts\\MeleeAttack.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MeleeAttack.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T16:18:48.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EnemyHealth.cs",
+              "DocumentMoniker": "C:\\Users\\marin\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uAC8C\uC784\uAC1C\uBC1C\\Infected Area(None team)\\Infected_Area\\Assets\\Scripts\\EnemyHealth.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyHealth.cs",
+              "ToolTip": "C:\\Users\\marin\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uAC8C\uC784\uAC1C\uBC1C\\Infected Area(None team)\\Infected_Area\\Assets\\Scripts\\EnemyHealth.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EnemyHealth.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAA4wHAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T16:16:24.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerMovement.cs",
+              "DocumentMoniker": "C:\\Users\\marin\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uAC8C\uC784\uAC1C\uBC1C\\Infected Area(None team)\\Infected_Area\\Assets\\Scripts\\PlayerMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerMovement.cs",
+              "ToolTip": "C:\\Users\\marin\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uAC8C\uC784\uAC1C\uBC1C\\Infected Area(None team)\\Infected_Area\\Assets\\Scripts\\PlayerMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerMovement.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAcwF8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-11T15:31:01.878Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
